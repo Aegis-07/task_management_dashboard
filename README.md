@@ -1,4 +1,4 @@
-# C-Link Home Assessment For Simple Project Management
+# Simple Project Management
 
 This is a simple project management system which is built of Laravel for backend and React for frontend.
 
@@ -14,7 +14,7 @@ Node: 22.6.0
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sharp0904/CLink_TEST.git
+git clone https://github.com/0xzerotohero/task_management_dashboard.git
 cd server
 ```
 
